@@ -157,7 +157,7 @@ The eighteenth step involved adding a funnel chart to analyze sales performance 
 
 ### Step 20: Enhanced Outlet Type Performance Matrix
 
-!![Enhanced Outlet Type Performance Matrix](assets/imh20.jpg)
+![Enhanced Outlet Type Performance Matrix](assets/imh20.jpg)
 
 * **Action**: Expanded the Table visual by incorporating additional KPIs, including Average Sales, Average Rating, and Item Visibility, along with conditional formatting to highlight performance differences across outlet types.
 
