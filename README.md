@@ -1,7 +1,7 @@
-# 🛒 Blinkit Grocery Sales Performance Dashboard
+#  Blinkit Grocery Sales Performance Dashboard
 An end-to-end data analysis project visualizing sales performance, outlet trends, and business KPIs using Power BI.
 
-## 🛠️ Project Process
+##  Project Process
 
 ### Step 1: Data Cleaning & Transformation
 The first step was to ensure data integrity using Power Query. This involved handling inconsistencies in the "Item Fat Content" column to ensure accurate categorization.
@@ -187,18 +187,18 @@ The eighteenth step involved adding a funnel chart to analyze sales performance 
 
 * **Outcome**: Delivered a fully functional and professional Power BI dashboard that enables users to analyze Blinkit's sales performance through dynamic filters, KPI metrics, and interactive visualizations, supporting informed business decision-making.
 
-## 📌 Project Summary
+##  Project Summary
 
 This Power BI dashboard was developed to analyze Blinkit's grocery sales performance through an interactive and user-friendly reporting interface. The project demonstrates the complete analytics workflow—from data cleaning and transformation in Power Query to DAX measure creation, data modeling, and interactive dashboard development.
 
 ### Key Features
-- 📊 Interactive KPI Cards
-- 📈 Dynamic Sales Trend Analysis
-- 🥗 Fat Content & Item Type Analysis
-- 🏪 Outlet Size, Type & Location Insights
-- 🎛️ Dynamic Field Parameters
-- 🔍 Interactive Slicers & Filters
-- 📋 Conditional Formatting & Performance Matrix
+-  Interactive KPI Cards
+-  Dynamic Sales Trend Analysis
+-  Fat Content & Item Type Analysis
+-  Outlet Size, Type & Location Insights
+-  Dynamic Field Parameters
+-  Interactive Slicers & Filters
+-  Conditional Formatting & Performance Matrix
 
 ### Tools & Technologies
 - Power BI Desktop
@@ -209,10 +209,10 @@ This Power BI dashboard was developed to analyze Blinkit's grocery sales perform
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Arpita Srivastava**
 
-## 👩‍💻 About the Author
+##  About the Author
 
 This project was designed and developed by **Arpita Srivastava** as part of her Data Analytics portfolio, showcasing skills in Power BI, Power Query, DAX, data modeling, and interactive dashboard design.
