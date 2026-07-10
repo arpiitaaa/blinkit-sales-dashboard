@@ -147,10 +147,42 @@ The eighteenth step involved adding a funnel chart to analyze sales performance 
 * **Action**: Mapped "Outlet Location Type" to the Category field and "Sales" to the Values field to create a funnel chart.
 * **Outcome**: Enabled a clear comparative analysis of sales across Tier 1, Tier 2, and Tier 3 locations, highlighting performance distribution.
 
-### Step 19: Outlet Type Performance Table
-The nineteenth step involved adding a table to provide a granular view of performance metrics categorized by outlet type.
+### Step 19: Outlet Type Performance Analysis
 
-![Outlet Type Table](assets/img19.jpg)
+![Outlet Type Performance Analysis](assets/img19.jpg)
 
-* **Action**: Created a table visual containing "Outlet Type," "Total Sales," and "No of Items" to offer detailed performance data.
-* **Outcome**: Provided a comprehensive summary table that complements the graphical visualizations, allowing for direct comparison of total sales and item counts across different store types.
+* **Action**: Added a Table visual to compare different outlet types based on key performance metrics, including Total Sales and Number of Items.
+
+* **Outcome**: Enabled detailed performance comparison across Grocery Stores and Supermarket Types, helping identify which outlet formats contribute the most to overall sales and inventory distribution.
+
+### Step 20: Enhanced Outlet Type Performance Matrix
+
+![Enhanced Outlet Type Performance Matrix](assets/img20.jpg)
+
+* **Action**: Expanded the Table visual by incorporating additional KPIs, including Average Sales, Average Rating, and Item Visibility, along with conditional formatting to highlight performance differences across outlet types.
+
+* **Outcome**: Delivered a comprehensive outlet performance summary, enabling users to compare multiple business metrics simultaneously and identify strengths and opportunities across different outlet formats.
+
+### Step 21: Outlet Type Matrix Design & Configuration
+
+![Outlet Type Matrix Design](assets/img21.jpg)
+
+* **Action**: Inserted a Matrix visual into the dashboard and configured its structure by assigning the required fields and measures, preparing it for detailed outlet-level performance analysis.
+
+* **Outcome**: Established the foundation for a comprehensive performance matrix, enabling the integration of multiple KPIs and supporting advanced comparative analysis across different outlet types.
+
+### Step 22: Interactive Filter Panel Implementation
+
+![Interactive Filter Panel](assets/img22.jpg)
+
+* **Action**: Added slicers for **Outlet Location Type** and **Outlet Size** to the dashboard sidebar, enabling users to filter all visualizations dynamically based on their selected criteria.
+
+* **Outcome**: Enhanced the dashboard's interactivity by allowing users to perform targeted analysis, making it easier to explore sales performance across different outlet locations and sizes.
+
+### Step 23: Final Dashboard Completion
+
+![Final Blinkit Sales Dashboard](assets/img23.jpg)
+
+* **Action**: Completed the dashboard by adding the final **Item Type** slicer and refining the overall layout, formatting, and alignment to create a cohesive, interactive reporting experience.
+
+* **Outcome**: Delivered a fully functional and professional Power BI dashboard that enables users to analyze Blinkit's sales performance through dynamic filters, KPI metrics, and interactive visualizations, supporting informed business decision-making.
