@@ -149,7 +149,7 @@ The eighteenth step involved adding a funnel chart to analyze sales performance 
 
 ### Step 19: Outlet Type Performance Analysis
 
-![Outlet Type Performance Analysis](assets/img19.jpg)
+![Outlet Type Performance Analysis](assets/1mg19.jpg)
 
 * **Action**: Added a Table visual to compare different outlet types based on key performance metrics, including Total Sales and Number of Items.
 
@@ -157,7 +157,7 @@ The eighteenth step involved adding a funnel chart to analyze sales performance 
 
 ### Step 20: Enhanced Outlet Type Performance Matrix
 
-![Enhanced Outlet Type Performance Matrix](assets/img20.jpg)
+!![Enhanced Outlet Type Performance Matrix](assets/imh20.jpg)
 
 * **Action**: Expanded the Table visual by incorporating additional KPIs, including Average Sales, Average Rating, and Item Visibility, along with conditional formatting to highlight performance differences across outlet types.
 
