@@ -10,3 +10,11 @@ The first step was to ensure data integrity using Power Query. This involved han
 
 *   **Action:** Used `Table.ReplaceValue` to standardize text values like "low fat" to "Low Fat".
 *   **Outcome:** Created a consistent dataset ready for accurate DAX modeling.
+
+### Step 2: Data Modeling & Measures
+With the data cleaned, the next step involved creating the necessary measures to track business performance. 
+
+![Data Modeling and Measures](assets/img2.jpg)
+
+*   **Action:** Developed core DAX measures to calculate key business metrics.
+*   **Outcome:** Established the foundation for dynamic sales reporting and trend analysis.
