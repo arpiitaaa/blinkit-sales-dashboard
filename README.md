@@ -186,3 +186,33 @@ The eighteenth step involved adding a funnel chart to analyze sales performance 
 * **Action**: Completed the dashboard by adding the final **Item Type** slicer and refining the overall layout, formatting, and alignment to create a cohesive, interactive reporting experience.
 
 * **Outcome**: Delivered a fully functional and professional Power BI dashboard that enables users to analyze Blinkit's sales performance through dynamic filters, KPI metrics, and interactive visualizations, supporting informed business decision-making.
+
+## 📌 Project Summary
+
+This Power BI dashboard was developed to analyze Blinkit's grocery sales performance through an interactive and user-friendly reporting interface. The project demonstrates the complete analytics workflow—from data cleaning and transformation in Power Query to DAX measure creation, data modeling, and interactive dashboard development.
+
+### Key Features
+- 📊 Interactive KPI Cards
+- 📈 Dynamic Sales Trend Analysis
+- 🥗 Fat Content & Item Type Analysis
+- 🏪 Outlet Size, Type & Location Insights
+- 🎛️ Dynamic Field Parameters
+- 🔍 Interactive Slicers & Filters
+- 📋 Conditional Formatting & Performance Matrix
+
+### Tools & Technologies
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Modeling
+- Interactive Visualizations
+
+---
+
+## 👩‍💻 Author
+
+**Arpita Srivastava**
+
+## 👩‍💻 About the Author
+
+This project was designed and developed by **Arpita Srivastava** as part of her Data Analytics portfolio, showcasing skills in Power BI, Power Query, DAX, data modeling, and interactive dashboard design.
